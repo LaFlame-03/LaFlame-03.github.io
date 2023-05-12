@@ -77,7 +77,7 @@ body.ajax-page-visible {
 }
 
 a {
-  color: #2eca7f;
+  color: #6d02f0;
   text-decoration: none;
   outline: none;
   -webkit-transition: all 0.3s ease-in-out;
@@ -185,7 +185,7 @@ textarea.form-control, textarea.form-control:focus {
   left: 50%;
   right: 50%;
   bottom: 0;
-  background: #2eca7f;
+  background: #6d02f0;
   height: 2px;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
