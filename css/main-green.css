@@ -354,11 +354,11 @@ button:hover, input[type="button"]:hover, input[type="submit"]:hover {
 /* / buttons */
 
 .border-top {
-  border-top: 2px solid #2eca7f;
+  border-top: 2px solid #1669c1;
 }
 
 .border-bottom {
-  border-bottom: 2px solid #2eca7f;
+  border-bottom: 2px solid #1669c1;
 }
 
 /* Footer */
@@ -434,7 +434,7 @@ body > footer .copyrights {
 
 .preloader-spinner:after {
   border-color: transparent;
-  border-top-color: #2eca7f;
+  border-top-color: #1669c1;
   -webkit-animation: rotation 0.82s infinite cubic-bezier(0.6,0.3,0.3,0.6);
   animation: rotation 0.82s infinite cubic-bezier(0.6,0.3,0.3,0.6);
 }
@@ -649,7 +649,7 @@ body > footer .copyrights {
 }
 
 .site-title span {
-  color: #2eca7f;
+  color: #1669c1;
 }
 
 .header.sticked .site-title {
@@ -788,7 +788,7 @@ body > footer .copyrights {
 }
 
 .block-title h3 span {
-  color: #2eca7f;
+  color: #134d7a;
 }
 
 .custom-page-content .block {
@@ -809,7 +809,7 @@ body > footer .copyrights {
 }
 
 .custom-page-content .page-header.color-1 {
-  background-color: #2eca7f;
+  background-color: #1669c1;
   background-image: url(../images/sp_main_bg.png);
   background-size: cover;
   -webkit-background-size: cover;
@@ -839,7 +839,7 @@ body > footer .copyrights {
 ======================================= */
 .start-page-content .page-header {
   position: relative;
-  background-color: #2eca7f;
+  background-color: #1669c1;
   padding: 50px;
   margin-bottom: 25px;
   background-image: url(../images/sp_main_bg.png);
