@@ -5,11 +5,12 @@
     "version": "0.2.0",
     "configurations": [
 
+
         {
             "type": "chrome",
             "request": "launch",
             "name": "http://localhost:8080",
-            "file": "c:\\Users\\Daniela\\source\\repos\\LaFlame-03.github.io\\index.html"
+            "file": "C:\\Users\\guila\\VScode\\LaFlame-03.github.io\\index.html"
         }
     ]
 }
